@@ -1,0 +1,7 @@
+langgraph
+transformers
+pillow
+dotenv
+torch
+torchvision
+acelerate
